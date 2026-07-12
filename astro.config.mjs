@@ -18,6 +18,7 @@ export default defineConfig({
       lastUpdated: false,
       pagination: true,
       sidebar: [
+        { label: '導論:追逐成就的空虛', slug: 'unit00' },
         {
           label: '成就的虛假承諾',
           items: [
